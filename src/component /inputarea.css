@@ -1,0 +1,20 @@
+input{
+    padding: 10px;
+    border: 3px solid blue;
+    outline: none;
+}
+.target{
+    padding: 5px 30px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+    font-size: 1.3rem;
+    color: aliceblue;
+    background:#8f9797;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

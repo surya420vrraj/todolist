@@ -1,0 +1,9 @@
+.app{
+    text-align: center;
+    padding: 10px;
+}
+.app_heading{
+    padding: 10px;
+    background: blue;
+    margin-bottom: 10px;
+}
